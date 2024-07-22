@@ -1,0 +1,28 @@
+.vendorTitel {
+    text-align: center;
+}
+
+.headingrow {
+    padding-top: 5%;
+}
+
+.modelHeader {
+    background-color: #01066B;
+    color: white;
+}
+
+.websiteButton {
+    width: 30% !important;
+}
+
+.btnBody{
+    text-align: center;
+}
+
+.card:hover{
+    cursor: pointer;
+}
+
+.rowmargin{
+    margin-bottom: 70px !important;
+}

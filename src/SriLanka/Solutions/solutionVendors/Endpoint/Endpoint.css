@@ -1,0 +1,28 @@
+.vendorTitel {
+    text-align: center;
+}
+
+.headingrow {
+    padding-top: 5%;
+}
+
+.modelHeader {
+    background-color: #01066B;
+    color: white;
+}
+
+.websiteButton {
+    width: 30% !important;
+}
+
+.btnBody {
+    text-align: center;
+}
+
+.pdes {
+    text-align: justify;
+    white-space: pre-wrap;
+    /* Preserves whitespace and line breaks */
+    word-wrap: break-word;
+    padding-bottom: 50px;
+}

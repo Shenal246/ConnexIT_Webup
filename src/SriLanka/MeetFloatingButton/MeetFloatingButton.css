@@ -1,0 +1,37 @@
+.meetFloating {
+    position: fixed;
+    bottom: 77vh;
+    right: 4vh;
+    width: 8vh;
+    height: 8vh;
+    background-color: #008CBA;
+    color: white;
+    border: none;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+    transition: all 0.5s ease;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    font-size: 3.8vh;
+}
+
+.meetFloating:hover {
+    width: 20vh;
+    height: 6vh;
+    border-radius: 10px;
+    bottom: 77vh;
+    right: 4vh;
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.3);
+}
+
+.meetText {
+    transition: all 1s ease;
+    padding-top: 1vh;
+}
+
+.meetFloating:hover .meetText {
+    font-size: 2.4vh !important;
+    /* Adjust the size as needed */
+}

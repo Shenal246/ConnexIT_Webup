@@ -1,0 +1,62 @@
+.blogimg {
+    padding: 4px;
+    border-radius: 20px;
+    width: 300px;
+}
+
+.cards2 {
+    background-color: rgba(201, 209, 216, 0.384) !important;
+    color: white !important;
+}
+
+
+.modal {
+    padding-top: 100px;
+}
+
+@media(max-width: 675px) {
+    .cards {
+        margin: 10px;
+        /* Add margin to cards for better spacing */
+    }
+}
+
+.read-more {
+    position: absolute;
+    bottom: 10px;
+    right: 20px;
+    width: 140px !important;
+    border: 120px;
+}
+
+.headingrow {
+    padding-bottom: 14px;
+}
+
+.buttnRow {
+    /* margin-top: 70px !important; */
+    white-space: pre-wrap !important;
+    word-wrap: break-word !important;
+    text-align: justify;
+}
+
+.upcomingDis {
+    padding: 50px;
+    font-size: larger;
+}
+
+.form-group {
+    margin-top: 10px;
+}
+
+.upheading {
+    text-align: center;
+    padding-top: 10px;
+}
+
+#UpcomingNewsText {
+    text-align: center;
+    font-size: 40px;
+    color: white;
+    opacity: 0.9;
+}
